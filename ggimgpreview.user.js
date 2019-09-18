@@ -1,6 +1,9 @@
 // ==UserScript==
-// @version 1.0.0
 // @name GG image preview
+// @description While browsing, shows a tooltip with a preview image when hoovering
+// @version 1.0.1
+// @author spendius
+// @homepageURL https://github.com/spendius/ggimgpreview
 // @match https://gazellegames.net/torrents.php
 // @require https://code.jquery.com/jquery-3.4.1.js
 // @grant GM_addStyle
